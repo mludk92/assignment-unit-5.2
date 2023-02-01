@@ -1,3 +1,7 @@
-body {
-    background-color: wheat;
+main {
+    background-color: lightgray;
+}
+header{background-color: rgb(0, 69, 122);
+color: rgb(198, 225, 198);
+text-align: center;
 }
